@@ -9,4 +9,4 @@
 |  ![](http://i.imgur.com/vAzVy5N.png)<br>书名：明朝那些事儿<br> |形式：电子书<br>类别：小说类<br>过程：[读书记]()<br>简介：<small>主要讲述的是从1344年到1644年这三百年间关于明的一些事情，以史料为基础，以年代和具体人物为主线，并加入了小说的笔法和对人物的心理分析，以及对当时政治经济制度的一些评价。</small> |![](http://i.imgur.com/E5eWEry.png)<br>书名：精益思想(共9册) |形式：电子书<br>类别：管理类<br>过程：[读书记]()<br>简介：<small>本书于1996年秋季首次出版，我们认为，真是恰逢其时，正好用于1997年的经济衰退和1998年的金融危机。本书的目的是阐明如何使各行业超然于20世纪90年代的各种金融较量之外，去创造真正而持久的价值。本书用实例说明，北美、欧洲和日本的一些企业如何利用1991年的经济衰退，重新考虑其发展战略，进而走上了新的发展道路。</small> |
 |![](http://i.imgur.com/M5fsDsy.png)<br>书名：Growth实战篇Djiango版 |形式：电子书<br>类别：计算机<br>过程：[读书记]()<br>简介：<small>Growth In Action Django</small> |![](http://i.imgur.com/1xqX22A.png)<br>书名：Growth：增长工程师指南|形式：电子书<br>类别：计算机<br>过程：[读书记]()<br>简介：<small>Growth: 全栈增长工程师指南。这是一本不止于全栈工程师的学习手册，它也包含了如何成为一个 Growth Hacker 的知识。</small> |
 # License
-![]()
+![](https://github.com/Jomsou/Note-of-Reading/blob/master/Jomsou Note of Reading.svg)
