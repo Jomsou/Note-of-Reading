@@ -100,8 +100,12 @@ var arr = [1, 2, 3.14, 'Hello', null, true];
 arr[0]; // 返回索引为0的元素，即1
 arr[5]; // 返回索引为5的元素，即true
 arr[6]; // 索引超出了范围，返回undefined
-对象
-avaScript的对象是一组由键-值组成的无序集合，例如：
+
+## 对象
+
+>javaScript的对象是一组由键-值组成的无序集合.
+
+例如：
 
 var person = {
     name: 'Bob',
