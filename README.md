@@ -10,7 +10,11 @@
 |![](http://i.imgur.com/M5fsDsy.png)<br>书名：Growth实战篇Djiango版 |形式：电子书<br>类别：计算机<br>过程：[读书记]()<br>简介：<small>Growth In Action Django</small> |![](http://i.imgur.com/1xqX22A.png)<br>书名：Growth：增长工程师指南|形式：电子书<br>类别：计算机<br>过程：[读书记]()<br>简介：<small>Growth: 全栈增长工程师指南。这是一本不止于全栈工程师的学习手册，它也包含了如何成为一个 Growth Hacker 的知识。</small> |
 
 # License
+<<<<<<< HEAD
 
 ![](http://i.imgur.com/8uqtVkJ.png)
 
 ### © 2017 Jomsou
+=======
+![](https://github.com/Jomsou/Note-of-Reading/blob/master/JomsouNoteofReading.svg)
+>>>>>>> 9baa59113093c50823d107b829c347f366e51f4e
